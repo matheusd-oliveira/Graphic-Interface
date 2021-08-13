@@ -24,7 +24,7 @@ root.title('SOMA')
 
 # Como interagir com a janela? Criando algo dentro dela.
 # row = linha ; column = coluna:
-# Toda variável que tem o entry, n recebe parâmetro,pq pra pegar o resultado dessa
+# Toda variável que tem o entry, não recebe parâmetro,pq pra pegar o resultado dessa
 # variável,utiliza-se o comando '.get()'
 
 num_1 = Entry()
