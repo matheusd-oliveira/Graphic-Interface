@@ -9,7 +9,7 @@
 
 from tkinter import *
 
-# Criando a função de soma;
+# Criando a função de soma:
 def Somar():
     n1 = int(num_1.get())
     n2 = int(num_2.get())
@@ -25,7 +25,7 @@ root.title('SOMA')
 # Como interagir com a janela? Criando algo dentro dela.
 # row = linha ; column = coluna:
 # Toda variável que tem o entry, não recebe parâmetro,pq pra pegar o resultado dessa
-# variável,utiliza-se o comando '.get()'
+# variável,utiliza-se o comando '.get()'.
 
 num_1 = Entry()
 num_1.grid(row = 0, column = 0)
